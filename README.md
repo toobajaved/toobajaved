@@ -50,7 +50,7 @@ I like turning real problems into working systems. My projects span RAG pipeline
 
 ### 🎯 Currently
 
-- Research Assistan @ SMU Graphics & Spatial Lab
+- Research Assistant @ SMU Graphics & Spatial Lab
 - Open to new grad roles in AI, data science, and analytics
 
 ---
