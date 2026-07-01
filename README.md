@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computing Science Graduate</b><br>
-  Saint Mary's University '26 · Summa Cum Laude · 4.25 GPA
+  SMU '26 · Summa Cum Laude · 4.25 GPA
 </p>
 
 <p align="center">
@@ -50,8 +50,8 @@ I like turning real problems into working systems. My projects span RAG pipeline
 
 ### 🎯 Currently
 
-- 🔍 Open to new grad roles in AI, data science, and analytics
-- 📚 Learning: n8n workflow automation, dbt fundamentals
+- Research Assistan @ SMU Graphics & Spatial Lab
+- Open to new grad roles in AI, data science, and analytics
 
 ---
 
